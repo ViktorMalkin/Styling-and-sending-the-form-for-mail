@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
 
         } else {
-            alert('Заполните обязательные поля');
+            alert('Fill in required fields');
         }
     
     }
