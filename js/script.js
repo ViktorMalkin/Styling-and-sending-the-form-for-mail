@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     function uploadFile(file){
         if (!['image/jpeg', 'image/png', 'image/gif'].includes(file.type)){
-            alert('Разрешены только изображения.');
+            alert('Only images are allowed.');
             formImage.value = '';
             return;
         }
