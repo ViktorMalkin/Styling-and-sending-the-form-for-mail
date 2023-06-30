@@ -98,10 +98,10 @@ document.addEventListener('DOMContentLoaded', function() {
         
         var reader = new FileReader();
         reader.onload = function(e){
-            formPreview.innerHTML = `<img src="${e.target.result}" alt="Фото">`;
+            formPreview.innerHTML = `<img src="${e.target.result}" alt="Image">`;
         };
         reader.onerror = function(e){
-            alert('Ошибка');
+            alert('Error');
         };
         reader.readAsDataURL(file);
     }
