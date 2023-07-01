@@ -149,6 +149,7 @@ textarea.form__input{
     border-radius: 50%;
     margin: 0px 10px 0px 0px;
 }
+
 .options__lable::after{
     transition: transform 0.5s ease 0s;
     content: "";
