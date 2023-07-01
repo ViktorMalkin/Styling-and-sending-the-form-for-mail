@@ -51,6 +51,7 @@ body {
 .form * {
     outline: none;
 }
+
 .form__body {
     position: relative;
 }
