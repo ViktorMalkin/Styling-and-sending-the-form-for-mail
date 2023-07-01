@@ -139,6 +139,7 @@ textarea.form__input{
     position: relative;
     cursor: pointer;
 }
+
 .options__lable::before{
     content: "";
     align-self: flex-start;
