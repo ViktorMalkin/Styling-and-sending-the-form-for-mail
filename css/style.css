@@ -130,6 +130,7 @@ textarea.form__input{
 .options__input:checked + .options__lable::after{
     transform: scale(1);
 }
+
 .options__lable {
     display: inline-flex;
     font-size: 16px;
