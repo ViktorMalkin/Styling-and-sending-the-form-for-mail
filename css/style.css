@@ -55,6 +55,7 @@ body {
 .form__body {
     position: relative;
 }
+
 .form__body::after{
     content: "";
     position: absolute;
