@@ -126,6 +126,7 @@ textarea.form__input{
 .options__input {
     display: none;
 }
+
 .options__input:checked + .options__lable::after{
     transform: scale(1);
 }
