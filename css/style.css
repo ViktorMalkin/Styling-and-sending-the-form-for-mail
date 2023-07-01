@@ -108,6 +108,7 @@ body {
 .form__input._error{
     box-shadow: 0 0 15px red;
 }
+
 textarea.form__input{
     min-height: 120px;
     resize: vertical;
