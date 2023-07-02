@@ -213,6 +213,7 @@ textarea.form__input{
 .file__preview img{
     max-width: 100%;
 }
+
 .checkbox {
 }
 .checkbox._error .checkbox__label::before{
