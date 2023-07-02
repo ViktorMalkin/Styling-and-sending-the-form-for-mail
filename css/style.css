@@ -237,6 +237,7 @@ textarea.form__input{
     position: relative;
     cursor: pointer;
 }
+
 .checkbox__label::before{
     content: "";
     align-self: flex-start;
