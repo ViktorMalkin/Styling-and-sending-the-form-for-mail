@@ -247,6 +247,7 @@ textarea.form__input{
     border-radius: 4px;
     margin: 0px 10px 0px 0px;
 }
+
 .checkbox__label::after{
     transition: transform 0.5s ease 0s;
     content: "";
