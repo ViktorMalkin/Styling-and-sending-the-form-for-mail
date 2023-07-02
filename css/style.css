@@ -228,6 +228,7 @@ textarea.form__input{
 .checkbox__input:checked + .checkbox__label::after{
     transform: scale(1);
 }
+
 .checkbox__label {
     font-size: 16px;
     line-height: 140%;
