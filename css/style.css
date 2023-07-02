@@ -216,6 +216,7 @@ textarea.form__input{
 
 .checkbox {
 }
+
 .checkbox._error .checkbox__label::before{
     box-shadow: 0 0 15px red;
 }
