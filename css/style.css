@@ -288,6 +288,7 @@ textarea.form__input{
 .form__button:hover{
     background-color: #4f6164;
 }
+
 .form__button:active{
     top: 3px;
     box-shadow: 0 2px 0 #161b13;
