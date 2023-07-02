@@ -260,6 +260,7 @@ textarea.form__input{
     border-radius: 4px;
     transform: scale(0);
 }
+
 .checkbox__label a {
     color: #7a956b;
 }
