@@ -193,6 +193,7 @@ textarea.form__input{
     font-size: 0;
     cursor: pointer;
 }
+
 .file__button {
     display: inline-flex;
     min-height: 40px;
