@@ -182,6 +182,7 @@ textarea.form__input{
 .file__item {
     position: relative;
 }
+
 .file__input {
     position: absolute;
     top: 0;
